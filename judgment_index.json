@@ -1,0 +1,107 @@
+[
+  {
+    "case_id": "40a8179bdf74cd6a",
+    "filename": "vqb-v-vqc-2021-sghcf-5.md",
+    "filing_date": "20 September 2019",
+    "judgment_date": "16 March 2021",
+    "court_level": "Family Court",
+    "judge_name": "Choo Han Teck J",
+    "judge_id": "3f3c5ad4a258d51c",
+    "applicant_role_age_range": "30-39",
+    "respondent_role_age_range": null,
+    "number_of_witnesses": 0,
+    "contested": false,
+    "legal_representation": "one_represented",
+    "maintenance": true,
+    "custody": true,
+    "division_of_assets": true,
+    "prior_cases_between_parties": false,
+    "topic_tags": [
+      "child_custody",
+      "adultery",
+      "financials",
+      "separation"
+    ],
+    "mention_of_domestic_violence": false,
+    "mention_of_adultery": true,
+    "legal_issue_counts": 2,
+    "sentiment_score": 0.099305,
+    "days_between_filing_and_judgment": 543,
+    "child_ages_present": {
+      "min": 6,
+      "max": 8,
+      "median": 8
+    },
+    "asset_value_bucket": "<100k"
+  },
+  {
+    "case_id": "8c68e5ceebb88cc2",
+    "filename": "xcg-v-xcf-and-another-matter-2025-sghcf-62.md",
+    "filing_date": null,
+    "judgment_date": "4 November 2025",
+    "court_level": "Family Court",
+    "judge_name": "Choo Han Teck J",
+    "judge_id": "3f3c5ad4a258d51c",
+    "applicant_role_age_range": null,
+    "respondent_role_age_range": null,
+    "number_of_witnesses": 0,
+    "contested": false,
+    "legal_representation": "one_represented",
+    "maintenance": true,
+    "custody": true,
+    "division_of_assets": true,
+    "prior_cases_between_parties": false,
+    "topic_tags": [
+      "child_custody",
+      "financials"
+    ],
+    "mention_of_domestic_violence": false,
+    "mention_of_adultery": false,
+    "legal_issue_counts": 3,
+    "sentiment_score": 0.11454500000000001,
+    "days_between_filing_and_judgment": null,
+    "child_ages_present": {
+      "min": null,
+      "max": null,
+      "median": null
+    },
+    "asset_value_bucket": ">1M"
+  },
+  {
+    "case_id": "c0ff8ffe6bb9b28e",
+    "filename": "yap-chai-ling-and-another-v-hou-wa-yi-2015-sghc-296.md",
+    "filing_date": "3 September 2015",
+    "judgment_date": "5 July 2016",
+    "court_level": "Family Court",
+    "judge_name": "Sheau Peng JC",
+    "judge_id": "1e7a0bf615bfeb33",
+    "applicant_role_age_range": null,
+    "respondent_role_age_range": null,
+    "number_of_witnesses": 4,
+    "contested": true,
+    "legal_representation": "one_represented",
+    "maintenance": true,
+    "custody": true,
+    "division_of_assets": true,
+    "prior_cases_between_parties": true,
+    "topic_tags": [
+      "child_custody",
+      "adultery",
+      "cruelty",
+      "financials",
+      "domestic_violence",
+      "separation"
+    ],
+    "mention_of_domestic_violence": true,
+    "mention_of_adultery": true,
+    "legal_issue_counts": 24,
+    "sentiment_score": 0.002910000000000003,
+    "days_between_filing_and_judgment": 306,
+    "child_ages_present": {
+      "min": null,
+      "max": null,
+      "median": null
+    },
+    "asset_value_bucket": "100k-500k"
+  }
+]
